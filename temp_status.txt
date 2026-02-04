@@ -1,0 +1,11 @@
+A  auto_sync.bat
+A  auto_sync.ps1
+A  auto_sync_fixed.ps1
+A  daily_sync.bat
+A  daily_sync.ps1
+A  daily_sync_en.bat
+A  generate_ssh_key.bat
+A  setup_github_sync.md
+A  simple_sync.ps1
+A  sync_log.txt
+AM temp_status.txt
